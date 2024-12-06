@@ -37,7 +37,8 @@ In the image, colored boxes highlight different sections of the General Tab to h
     Defines the **device orientations** your app supports, such as portrait or landscape modes.
 
 - **Red Box:**
-Controls the **status bar style**, which affects the appearance of the status bar at the top of the device screen. For example, you can choose light or dark content for better visibility based on your app’s design.
+
+    Controls the **status bar style**, which affects the appearance of the status bar at the top of the device screen. For example, you can choose light or dark content for better visibility based on your app’s design.
 
 The **last two boxes** are the ones you’ll use most frequently during development:
 
@@ -48,6 +49,7 @@ The **last two boxes** are the ones you’ll use most frequently during developm
   - **Run (Play)** and **Stop** buttons to launch or terminate the app.
   - The **device selector** to choose whether to run the app on a simulator or a physical device.
 - **Black Box:**
+
     The **Navigator Pane**, which contains several tab bars. The most important is the **Project Navigator**, where you’ll:
 
   - **Develop:** Work with your app’s Swift files (code).
